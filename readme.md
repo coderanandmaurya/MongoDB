@@ -9,7 +9,7 @@
 
 ## **Database Commands**
 
-| Sno. | Command | Command Do |
+| **Sno.** | **Command** | **Command Do** |
 | ---- | ------- | ---------- |
 | 1. | show dbs | To show all databases|
 | 2. | use dbname | To create or switch database |
@@ -19,7 +19,7 @@
 
 ## **Collection Commands**
 
-| Sno. | Command | Command Do |
+| **Sno.** | **Command** | **Command Do** |
 | ---- | ------- | ---------- |
 | 1. | show collections | To show Collection |
 | 2. | db.createCollection('mycollection') | create new collection |
@@ -29,7 +29,7 @@
 ## **Row Commands**
 
 
-| Sno. | Command | Command Do |
+| **Sno.** | **Command** | **Command Do** |
 | ---- | ------- | ---------- |
 | 1. | db.mycollection.insertone({'name': 'bunny', 'lang': 'eng', 'id': 5}) | Insert One Row |
 | 2. | db.mycollection.insertMany([{'name': 'by', 'lang': 'eng', 'id': 2 }, {'name': 'maker', 'lang': 'eng', 'id': 3 }]) | Insert Many Row |
